@@ -63,3 +63,16 @@ Safe KPI Calculator
    ▼
 
 Insight Report
+
+
+
+
+ai-excel-analyst/
+├── core.py           
+├── dynamic_kpi.py     
+├── llm_ollama.py       
+├── llm_gemini.py         
+├── cli.py             
+├── requirements.txt
+├── .env.example
+└── README.md
